@@ -1,6 +1,6 @@
 ## YoloV5 and DeepSort Tracker Streamlit Dashboard
 
-## :key: Features
+## Features
 
 1. Choose input source - Local, RTSP or Webcam
 2. Input class threshold
@@ -14,10 +14,10 @@
 10. Display poor performing class
 11. Display minimum and maximum FPS recorded during inference
 
-## :dizzy: How to use?
+## How to use?
 1. Clone this repo
 2. Install all the dependencies
 3. Run -> streamlit run app.py
 
-## :heart: Acknowledgement
+## Acknowledgement
 Sahil Chachra
