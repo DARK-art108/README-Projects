@@ -23,11 +23,11 @@ Clone the repository : git clone https://github.com/DARK-art108/Video-Captioning
 
 Video Caption Generator: cd Video-Captioning-Using-LSTM
 
-Create environment: <code>conda create -n video_caption python=3.7</code>
+Create environment: conda create -n video_caption python=3.7
 
-Activate environment: <code>conda activate video_caption</code>
+Activate environment: conda activate video_caption
 
-Install requirements: <code>pip install -r requirements.txt</code>
+Install requirements: pip install -r requirements.txt
 
 ## Usage
 To use the models that have already been trained
